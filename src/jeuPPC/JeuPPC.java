@@ -44,6 +44,8 @@ public class JeuPPC {
 		}
 		if(cJoueur == 3 )System.out.println("Le joueur qui gagne le jeu");
 		if(cOrdinateur == 3 )System.out.println("L'Ordinateur qui gagne le jeu");
+		
+		System.out.println("Tester GitHub");
 
 	}
 
